@@ -1,14 +1,63 @@
 <h1 align="center">Hi 👋, I'm Monse Neumann</h1>
-<h3 align="center">A backend development and frontend development enthusiast</h3>
+<div align="center"> <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></div>
+<h3 align="center">Full Stack Web Developer | Backend development | Node.js - Fast | Frontend Development | Vite-React | MySQL | MongoDB | PostgreSQL</h3>
 
-<h3 align="left">Connect with me: monseale3@gmail.com</h3>
-<p align="left">
+------
+
+### About Me:
+
+<p> 
+Hello! I'm Monse Neumann.
+
+ Passionate Web Developer
+
+As a developer, my goal is to learn and grow in the world of web development. I am passionate about building interactive and elegant applications using technologies such as:
+
+- **Node.js**: To create robust and scalable servers. 💻
+- **JavaScript**: My favorite programming language for client-side logic. 👽
+- **HTML and CSS**: To bring beautiful and functional designs to life. ✏️
+- **React**: My preferred framework for building dynamic user interfaces. 💥
+- **Express**: To create efficient RESTful APIs. ✨
+- **Testing with Jest and Cypress**: Because quality is key. 🔎
+
+I am open to opportunities for learning and collaboration. I am always willing to explore new technologies and face exciting challenges. Connect with me and let's talk about how we can work together!
+
+Thank you for visiting my profile! 🚀
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+-----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neumann0908&show_icons=true&locale=en&layout=compact" alt="neumann0908" /></p>
+### Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neumann0908&show_icons=true&locale=en" alt="neumann0908" /></p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,express,git,gmail,linkedin,mongodb,mysql,nodejs,php,postgres,postman,react,vercel,vite)](https://skillicons.dev)
+
+------
+### My statics:
+
+<div dispay="flex" align="center" > 
+    <a>
+        &nbsp;<img top="500" height="300" width="400"src="https://github-readme-stats.vercel.app/api?username=neumann0908&show_icons=true&locale=en" alt="neumann0908" />
+    </a>
+
+<a>
+  <img  top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+</div>
+
+-----
+
+
+### Contact me:
+
+<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-neumann0908-green?style=for-the-badge&logo=github"></a>
+
+<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-monseale3@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
+
+------
+
+
+
 
